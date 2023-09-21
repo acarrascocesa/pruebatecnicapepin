@@ -1,0 +1,6 @@
+# Archivos generados por el sistema
+.DS_Store
+
+# Dependencias Node.js
+/node_modules
+
